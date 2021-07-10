@@ -1,2 +1,2 @@
 # alura
-Barbearia Alura
+Barbearia Alura, site desenvolvido no curso da Alura.
